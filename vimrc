@@ -19,7 +19,7 @@ Plugin 'altercation/vim-colors-solarized'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
-
+syntax enable
 set background=dark
 colorscheme solarized
 
